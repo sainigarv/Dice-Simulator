@@ -1,4 +1,4 @@
-import random
+import random garv chutiya hai
 x = "y"
 while x == "y": 
     # Generates a random number
