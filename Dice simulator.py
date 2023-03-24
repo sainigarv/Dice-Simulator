@@ -1,4 +1,4 @@
-import random 
+import randem
 x = "y"
 while x == "y": 
     # Generates a random number
